@@ -1,0 +1,11 @@
+# Assigning numeric values to variables
+x <- 8
+y <- 10.2 
+
+# Printing variables
+print(x)  
+
+#example of using functions: 
+
+say_hello <- function() {
+  print("Hello, World!")
